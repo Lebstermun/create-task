@@ -1,9 +1,23 @@
-h1,h2,h3,h4,h5 {color:saddlebrown;}
+h1,h2,h3,h4,h5 {color:maroon;}
 
-body {background-color:DarkSeaGreen;}
+body {background-color:forestGreen;}
 
 p {font-family:"Lucida Console", Monaco, monospace;}
 
 h1,h2,h3,h4,h5 {font-family:"Courier New", Courier, monospace;}
 
 li {font-family:"Courier New", Courier, monospace;}
+
+button {
+  display: block;
+  width: 100%
+  height: 100%
+  margin: auto;
+  height: 3em;
+  font: 1.1em "Century Gothic", "Century Gothic", "Apple Gothic", sans-serif;
+  color:Indigo;
+  background-color:DarkGoldenrod;
+  border-color:SaddleBrown;
+}
+table {color:chocolate}
+<table style="text-align:center;">

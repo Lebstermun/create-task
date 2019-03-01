@@ -3,8 +3,10 @@ h1,h2,h3,h4,h5 {color:maroon;}
 body {background-color:forestGreen;}
 
 p {font-family:"Lucida Console", Monaco, monospace;}
+a{color:forestGreen }
+a:hover{color:gold}
 
-h1,h2,h3,h4,h5 {font-family:"Courier New", Courier, monospace;}
+h1,h2,h3,h4,h5 {font-family"Palatino Linotype", "Book Antiqua", Palatino, serif;}
 
 li {font-family:"Courier New", Courier, monospace;}
 
@@ -19,5 +21,4 @@ button {
   background-color:DarkGoldenrod;
   border-color:SaddleBrown;
 }
-table {color:chocolate}
-<table style="text-align:center;">
+table {color:firebrick}

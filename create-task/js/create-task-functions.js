@@ -16,3 +16,6 @@ function choiceReturn() {
 function exit() {
   window.location="https://www.google.com/"
 }
+function choiceWin() {
+  window.location='win-screen.html'
+}

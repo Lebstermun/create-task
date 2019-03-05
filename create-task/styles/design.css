@@ -1,12 +1,16 @@
-h1,h2,h3,h4,h5 {color:maroon;}
+h1,h2,h3,h4,h5 {color:orangered;}
 
-body {background-color:forestGreen;}
+body {
+  background-image:url(https://i.pinimg.com/originals/28/7a/5f/287a5f2a78472095c192431b54fcc9d6.jpg);
+  background-size: cover;
+  background-size: 1500px;
+ }
 
 p {font-family:"Lucida Console", Monaco, monospace;}
-a{color:forestGreen }
+a{color:black }
 a:hover{color:gold}
 
-h1,h2,h3,h4,h5 {font-family"Palatino Linotype", "Book Antiqua", Palatino, serif;}
+h1,h2,h3,h4,h5 {font-family: "Rock Salt"}
 
 li {font-family:"Courier New", Courier, monospace;}
 
@@ -21,4 +25,4 @@ button {
   background-color:DarkGoldenrod;
   border-color:SaddleBrown;
 }
-table {color:firebrick}
+table {color:gold}

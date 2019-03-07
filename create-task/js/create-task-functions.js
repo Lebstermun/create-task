@@ -8,7 +8,7 @@ function choiceDeath() {
   window.location='death-page.html';
 }
 function choiceThree() {
-  window.location='death-page.html';
+  window.location='choiceThree.html';
 }
 function choiceReturn() {
     window.location='create-task.html'
@@ -18,4 +18,7 @@ function exit() {
 }
 function choiceWin() {
   window.location='win-screen.html'
+}
+function bankPlane() {
+  window.location='bankerandPlane.html'
 }

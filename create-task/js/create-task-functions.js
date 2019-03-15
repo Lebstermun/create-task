@@ -82,3 +82,9 @@ function enterTemple(){
 function shotInTheBack(){
   window.location='shotInBack.html'
 }
+function bankBridge(){
+  window.location='bankBridge.html'
+}
+function abandon(){
+  window.location='abandonBank.html'
+}

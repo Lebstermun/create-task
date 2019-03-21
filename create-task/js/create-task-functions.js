@@ -8,7 +8,7 @@ function choiceDeath() {
   window.location='death-page.html';
 }
 function choiceReturn() {
-    window.location='create-task.html'
+    window.location='index.html'
 }
 function exit() {
   window.location="https://www.google.com/"

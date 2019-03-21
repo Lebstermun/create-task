@@ -62,7 +62,7 @@ function saveIdol(){
   window.location='saveIdol.html'
 }
 function saveNativeWin(){
-  window.location='SaveNativeWin.html'
+  window.location='saveNativeWin.html'
 }
 function saveplane(){
   window.location='saveplane.html'

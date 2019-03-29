@@ -1,3 +1,4 @@
+
 function choiceOne() {
   window.location='choiceOne.html';
 }
@@ -17,7 +18,7 @@ function choiceWin() {
   window.location='win-screen.html'
 }
 function bankPlane() {
-  window.location='bankerandPlane.html'
+  window.location='bankerAndPlane.html'
 }
 function anthroNative() {
   window.location='anthroNative.html'

@@ -89,3 +89,6 @@ function bankBridge(){
 function abandon(){
   window.location='abandonBank.html'
 }
+let answer = Math.ceil((Math.random() * 2) + .1);
+ let test = document.getElementById("test")
+ test = answer

@@ -89,6 +89,23 @@ function bankBridge(){
 function abandon(){
   window.location='abandonBank.html'
 }
-let answer = Math.ceil((Math.random() * 2) + .1);
- let test = document.getElementById("test")
- test = answer
+var answer = Math.ceil((Math.random() * 2) + .1);
+function nop(){
+var answer = Math.ceil((Math.random() * 2) + .1);
+ var test = document.getElementById("test").onload = function() {fath()};
+
+function fath() {
+  document.getElementById("test").innerHTML = "`${answer}`";
+  alert()
+test= answer
+}
+
+}
+let andrew ;
+if (answer == 1) {
+andrew=document.getElementById("pirate")
+andrew.innerHTML = "You are a former adventurer living in Jersey City after getting robbed by of getting your last treasure by your rival you decide to go on another journey to the small island of Aeneas off the coast of madagascar where legend has it there is a sacred artifact from the pirate Bob. what airline will you take to madagascar"
+}
+else {
+document.getElementById("pirate").innerHTML= "You are a former adventurer living in Jersey City after getting robbed by of getting your last treasure by your rival you decide to go on another journey to the small island of Aeneas off the coast of madagascar where legend has it there is a sacred artifact from the pirate asd. what airline will you take to madagascar"
+}
